@@ -1,0 +1,27 @@
+body {
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  background-color:rgb(45, 185, 80);
+  font-family: "Comic Sans", 'Times New Roman', Times, serif, sans-serif;
+}
+
+.form {
+  display: flex;
+  width: 1001px;
+  margin-top: 30px;
+  flex-direction: row;
+  padding: 20px;
+  background-color: azure;
+  
+}
+
+.form_item {
+  height: 30px;
+  margin-right: 20px;
+  margin-top: 5px;
+  font-weight: bold;
+  font-size: 3em;
+}
